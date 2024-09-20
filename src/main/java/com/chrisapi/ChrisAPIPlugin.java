@@ -29,7 +29,7 @@ import java.util.concurrent.Executors;
 
 @Slf4j
 @PluginDescriptor(
-		name = "Chris API",
+		name = "<html>[<font color=#8B2500>\uD83C\uDF33</font>] " + "Chris Updated API</html>",
 		description = "Actively logs the player status and events to localhost",
 		tags = {"status", "stats", "api"},
 		enabledByDefault = true
